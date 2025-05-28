@@ -5,8 +5,8 @@
 * https://hub.zetachain.com/
 * https://support.passport.xyz/passport-knowledge-base/stamps/how-do-i-add-passport-stamps/gnosis-safe-stamp
 
-https://guild.xyz/superseed
-https://guild.xyz/space-id
+* https://guild.xyz/superseed
+* https://guild.xyz/space-id
 
 # Análise Estratégica das Guilds Mais Promissoras para Recompensas On-Chain
 
