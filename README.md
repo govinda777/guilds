@@ -1,5 +1,13 @@
 # guilds
 
+https://passport.human.tech/
+https://app.passport.xyz/#/dashboard
+https://hub.zetachain.com/
+https://support.passport.xyz/passport-knowledge-base/stamps/how-do-i-add-passport-stamps/gnosis-safe-stamp
+
+https://guild.xyz/superseed
+https://guild.xyz/space-id
+
 # Análise Estratégica das Guilds Mais Promissoras para Recompensas On-Chain
 
 A plataforma Guild.xyz emergiu como infraestrutura crítica para engajamento comunitário em ecossistemas Web3, oferecendo acesso a recompensas estratificadas através de participação em protocolos líderes. Baseado na análise de 18 resultados de pesquisa e padrões do setor, identificamos as Guilds com maior potencial de retorno considerando fatores como maturidade do ecossistema, mecanismos de recompensa e oportunidades de crescimento.
