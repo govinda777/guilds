@@ -1,9 +1,9 @@
 # guilds
 
-https://passport.human.tech/
-https://app.passport.xyz/#/dashboard
-https://hub.zetachain.com/
-https://support.passport.xyz/passport-knowledge-base/stamps/how-do-i-add-passport-stamps/gnosis-safe-stamp
+* https://passport.human.tech/
+* https://app.passport.xyz/#/dashboard
+* https://hub.zetachain.com/
+* https://support.passport.xyz/passport-knowledge-base/stamps/how-do-i-add-passport-stamps/gnosis-safe-stamp
 
 https://guild.xyz/superseed
 https://guild.xyz/space-id
